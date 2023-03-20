@@ -97,11 +97,11 @@ export const chainMap = {
         gas: 200000,
         prefix: "evmos"
     },
-    "atlantic-1":{
-        name:'Sei Atlantic Testnet',
+    "atlantic-2":{
+        name:'Sei Atlantic-2 Testnet',
         chain_status:'experiemental',
-        rpc:'https://sei-testnet.nodejumper.io:443',
-        rest:"https://sei-testnet.nodejumper.io:1317",
+        rpc:'https://rpc.atlantic-2.seinetwork.io',
+        rest:"https://rest.atlantic-2.seinetwork.io",
         symbol:'SEI',
         denom: "usei",
         exponent: 6,
